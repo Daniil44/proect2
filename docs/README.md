@@ -24,3 +24,6 @@
 Главная точка входа клиента: `src/client/client.js`.
 
 Файл intentionally маленький: он связывает UI, сцену, socket-контроллер, input-контроллер, players manager и чат.
+
+## Ссылка 
+https://multiplayer-k01k.onrender.com
